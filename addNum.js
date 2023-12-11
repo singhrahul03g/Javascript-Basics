@@ -1,5 +1,6 @@
+
 const addNumbers = (a,b) => {
     return a + b
 }
 
-addNumbers(4,5)
+console.log(addNumbers(4,5))
